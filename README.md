@@ -1,5 +1,8 @@
 # ![Hysteria 2](logo.svg)
 
+richme2019@gmail.com
+myapp2150@gmail.com
+
 [![License][1]][2] [![Release][3]][4] [![Telegram][5]][6] [![Discussions][7]][8]
 
 [1]: https://img.shields.io/badge/license-MIT-blue
