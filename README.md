@@ -2,6 +2,7 @@
 
 richme2019@gmail.com
 myapp2150@gmail.com
+support@aifree.app
 
 [![License][1]][2] [![Release][3]][4] [![Telegram][5]][6] [![Discussions][7]][8]
 
