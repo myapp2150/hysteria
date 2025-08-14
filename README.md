@@ -1,5 +1,9 @@
 # ![Hysteria 2](logo.svg)
 
+
+ZoZE/016984/EU/11/08/2025
+
+
 richme2019@gmail.com
 myapp2150@gmail.com
 support@aifree.app
